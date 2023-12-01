@@ -7,3 +7,8 @@
 3. cd 'Scrapy-and-recommned-news'
 4. pip install -r requirements.txt
 5. สามารถเริ่ม แอปโดยใช้คำสั่ง streamlit run app.py
+
+![example](topnews1.png)
+
+
+![example2](topnews2.png)
